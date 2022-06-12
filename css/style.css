@@ -37,6 +37,31 @@
     align-items: center;
     text-decoration: none;
 }
+.footerhistoria{
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: larger;
+    font-style: normal;
+    text-decoration: none;
+    display: flex;
+    background-color: #0dcaf0 ;
+    margin-top: -18px;
+}
+.footerservicios{
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: larger;
+    font-style: normal;
+    text-decoration: none;
+    display: flex;
+    background-color: #0dcaf0 ;
+}
 
 /*Contactanos*/
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
