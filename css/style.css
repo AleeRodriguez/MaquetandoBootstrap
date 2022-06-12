@@ -146,3 +146,25 @@ p {
     outline: 0;
     border: 1px solid #97d848;
 }
+
+/*Nosotros*/
+
+.mainservicios{
+    display: flex;
+}
+.card{
+    margin: 10px;
+}
+
+.parrafohistoria{
+    display: flex;
+    margin: 10px;
+    color: beige;
+    font-size: large;
+    opacity: 0,8;
+    align-items: center;
+    justify-content: center;
+}
+.seccion{
+    text-align: center;
+}
