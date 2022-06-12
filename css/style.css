@@ -1,0 +1,22 @@
+* { margin: 0; padding: 0; }
+
+/*Index*/
+
+.body{
+    background-image: url(../images/fotoIndex2.jpg);
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.mainindex{
+    display: flex;
+    font-size: large;
+    margin: 0px;
+    font-family: cursive;
+    color: antiquewhite;
+}
+.reseña{
+    display: flex;
+    padding: 170px;
+}
